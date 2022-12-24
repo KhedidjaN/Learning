@@ -1,0 +1,6 @@
+ public class Hell {
+ public static void mains (String [] args){
+
+ system.out.println ("hello")
+ }
+ }
